@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/(6). Magic_Tower_V0.31_Client Version/(6). Magic_Tower_V0.31_Client Version.iml" filepath="$PROJECT_DIR$/(6). Magic_Tower_V0.31_Client Version/(6). Magic_Tower_V0.31_Client Version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/(7). Springboot_Data_Server/(5). Backend Application/src/main/main.iml" filepath="$PROJECT_DIR$/(7). Springboot_Data_Server/(5). Backend Application/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/(7). Springboot_Data_Server/src/main/main2.iml" filepath="$PROJECT_DIR$/(7). Springboot_Data_Server/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/(7). Springboot_Data_Server/(5). Backend Application/src/test/test.iml" filepath="$PROJECT_DIR$/(7). Springboot_Data_Server/(5). Backend Application/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/(7). Springboot_Data_Server/test/test2.iml" filepath="$PROJECT_DIR$/(7). Springboot_Data_Server/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/(7). Springboot_Data_Server/src/test/test3.iml" filepath="$PROJECT_DIR$/(7). Springboot_Data_Server/src/test/test3.iml" />
+    </modules>
+  </component>
+</project>
