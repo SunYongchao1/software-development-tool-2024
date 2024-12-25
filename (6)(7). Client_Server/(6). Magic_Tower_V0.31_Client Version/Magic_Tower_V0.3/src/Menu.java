@@ -96,7 +96,7 @@ public class Menu {
 	}
 
 	public void restartGame() {
-		gameData.readMapFromFile("Map.in");
+		gameData.readMapFromFile("Magic_Tower_V0.3/Map.in");
 		System.out.println("Game Restarted!!");
 	}
 

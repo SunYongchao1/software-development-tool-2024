@@ -33,15 +33,15 @@ public class GUI {
 	private static Image chooseImage(int index){
 		ImageIcon[] icons = new ImageIcon[10];
 		Image scaledImage;
-		icons[0]= new ImageIcon("Wall.jpg");
-		icons[1]= new ImageIcon("Floor.jpg");
-		icons[2]= new ImageIcon("Key.jpg");
-		icons[3]= new ImageIcon("Door.jpg");
-		icons[4]= new ImageIcon("Stair.jpg");
-		icons[5]= new ImageIcon("Exit.jpg");
-		icons[6]= new ImageIcon("Hero.jpg");
-		icons[7]= new ImageIcon("Potion.jpg");
-		icons[8]= new ImageIcon("Monster.jpg");
+		icons[0]= new ImageIcon("Magic_Tower_V0.3/Wall.jpg");
+		icons[1]= new ImageIcon("Magic_Tower_V0.3/Floor.jpg");
+		icons[2]= new ImageIcon("Magic_Tower_V0.3/Key.jpg");
+		icons[3]= new ImageIcon("Magic_Tower_V0.3/Door.jpg");
+		icons[4]= new ImageIcon("Magic_Tower_V0.3/Stair.jpg");
+		icons[5]= new ImageIcon("Magic_Tower_V0.3/Exit.jpg");
+		icons[6]= new ImageIcon("Magic_Tower_V0.3/Hero.jpg");
+		icons[7]= new ImageIcon("Magic_Tower_V0.3/Potion.jpg");
+		icons[8]= new ImageIcon("Magic_Tower_V0.3/Monster.jpg");
 		if(index>10)
 			scaledImage = icons[7].getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH);
 		else if(index<0)

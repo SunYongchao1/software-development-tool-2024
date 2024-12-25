@@ -10,7 +10,7 @@ public class MagicTowerMain {
 	public static void main(String[] args) throws ClassNotFoundException, SQLException, InterruptedException {
 		login = new Login();
 		gameData = new GameData();
-		gameData.readMapFromFile("Magic_Tower_V0.3/Map.in");
+		gameData.readMapFromFile("magic_Tower_V0.3/Map.in");
 		gameData.printMap();
 		gui = new GUI(gameData);
 		menu = new Menu(gameData);
